@@ -1,0 +1,28 @@
+{
+  "name": "comp308-w2017-lesson2c",
+  "version": "1.0.0",
+  "description": "Demo app for 'Cthulhu' lesson 2",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CentennialCollege/COMP308-W2017-Lesson2C.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "MEAN",
+    "Stack"
+  ],
+  "author": "Tom Tsiliopoulos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CentennialCollege/COMP308-W2017-Lesson2C/issues"
+  },
+  "homepage": "https://github.com/CentennialCollege/COMP308-W2017-Lesson2C#readme",
+  "dependencies": {
+    "connect": "^3.5.0"
+  }
+}
